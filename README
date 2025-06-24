@@ -1,5 +1,7 @@
 AKIAIOSFODNN7EXAMPLE
 
+DefaultEndpointsProtocol=https;AccountName=sampleaccount;AccountKey=bXlwYXNzd29yZEtleQ==;EndpointSuffix=core.windows.net
+
 ***************************** Webgoat.NET **********************************
 * Source Code: https://github.com/jerryhoff/WebGoat.NET
 * Download zip: https://github.com/jerryhoff/WebGoat.NET/zipball/master
