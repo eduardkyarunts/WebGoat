@@ -1,3 +1,5 @@
+
+api_key = "ghp_abcd1234abcd1234abcd1234abcd1234abcd"
 AKIAIOSFODNN7EXAMPLE
 
 DefaultEndpointsProtocol=https;AccountName=sampleaccount;AccountKey=bXlwYXNzd29yZEtleQ==;EndpointSuffix=core.windows.net
