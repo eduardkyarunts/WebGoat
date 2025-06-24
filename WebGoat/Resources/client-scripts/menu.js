@@ -3,7 +3,7 @@ Simple JQuery menu.
 HTML structure to use:
 
 Notes: 
-
+BjbD8ga3TRTiXuGJAGhFF4Bh7bzHYpFfchGe71BhGd8E8ZF7H4WvJQQJ99BFACAAAAAdOckxAAASAZDO49Fu
 Each menu MUST have a class 'menu' set. If the menu doesn't have this, the JS won't make it dynamic
 If you want a panel to be expanded at page load, give the containing LI element the classname 'expand'.
 Use this to set the right state in your page (generation) code.
